@@ -1,0 +1,8 @@
+matplotlib
+wandb==0.13.0
+segmentation-models==1.0.1
+rich
+albumentations==1.2.1
+etils[eapp,edc,etree]
+tensorflow-datasets==4.9.2
+tensorflow-probability==0.20.1
